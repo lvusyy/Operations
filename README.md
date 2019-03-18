@@ -1,6 +1,6 @@
 # Operations
 存储运维相关的东西  
-[linux基本运维导图](https://www.processon.com/mindmap/5c8e4db9e4b0afc74414e27b)  
-[web运维导图](https://www.processon.com/mindmap/5c8e531ce4b0ed6b43041119)  
-[redis导图](https://www.processon.com/mindmap/5c8d0168e4b02ce2e890ce5b)  
-[linux运维工程师技能树导图 By:EdwardElric](https://www.processon.com/mindmap/5c8bbe41e4b0d1a5b1000499)  
+[linux基本运维导图](https://www.processon.com/view/link/5c8eee3be4b01e76978205e3)  
+[web运维导图](https://www.processon.com/view/link/5c8eee2de4b0ab74ecdb3e40)  
+[redis导图](https://www.processon.com/view/link/5c8eee1ce4b09a16b9a5a4e0)  
+[linux运维工程师技能树导图 By:EdwardElric](https://www.processon.com/view/link/5c8eeda4e4b02b2ce49bc1d3)  
